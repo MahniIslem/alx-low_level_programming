@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * function simmiliar to 
+ * he one you worked with
+ * in an earlier C project
+ */
+
 void positive_or_negative(int i)
 {
 	if (i > 0)
