@@ -1,5 +1,1 @@
-0x12. C - Singly linked lists
-
-
-
-README.md
+0x12. C - Singly
